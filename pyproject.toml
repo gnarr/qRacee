@@ -7,7 +7,7 @@ license = "The Unlicense"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-qbittorrent-api = "^2022.5.32"
+qbittorrent-api = "2025.5.0"
 python-dotenv = "^0.20.0"
 
 [tool.poetry.dev-dependencies]
